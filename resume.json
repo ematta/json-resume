@@ -79,13 +79,13 @@
       "website": "https://www.carbonblack.com",
       "startDate": "2017-01-15",
       "endDate": "",
-      "summary": "Carbon Black is a leader in Endpoint Security, offering products that give applications access control for execution to Next Generation Anti Virus.",
+      "summary": "Carbon Black is a leader in Endpoint Security, offering products that give applications access control for execution to Next Generation Anti-Virus.",
       "highlights": [
-        "Created Test Plans, Test Sets, and Test Cases for Next Generation Anti Virus product",
+        "Created Test Plans, Test Sets, and Test Cases for Next Generation Anti-Virus product",
         "Created a proof of concept for Selenium with Node.js and Cucumber.js",
         "Migrated the proof of concept written in Node.js to Python and PyTest",
         "Integrated a pseudo Selenium Grid on local development machines using Docker",
-        "Implemented parellel testing with pytest-xdist",
+        "Implemented parallel testing with pytest-xdist",
         "Tied Browsermob Proxy to the Selenium test suite",
         "Wrote API tests with Swagger Docs using the code generation tools",
         "Set up a Jenkins instance for nightly selenium runs and tied results to flowdock",
@@ -99,7 +99,7 @@
       "website": "https://www.rackspace.com",
       "startDate": "2014-11-15",
       "endDate": "2017-01-15",
-      "summary": "Rackspace provides dedicated and cloud hosting, providing fanatical support for all of it's services.",
+      "summary": "Rackspace provides dedicated and cloud hosting, providing fanatical support for all of its services.",
       "highlights": [
         "Maintained a legacy Python/Javascript application that was written against a Postgres database",
         "Created Unit Tests with Pytest and MagicMock",
@@ -131,7 +131,7 @@
         "Taught developers how to utilize JQuery JSON with ASP.NET WebForms and MVC 4",
         "Managed Hyper-V instances for our QA Automation tools",
         "Moved a Manual Testing environment to a hybrid Manual/Automated testing environment",
-        "Developed a front end Automation tool utilizing Ruby, Cucumber, and WATIR",
+        "Developed a front-end Automation tool utilizing Ruby, Cucumber, and WATIR",
         "Worked with Watir-Webdriver and other webdriver/selenium 2.0 projects",
         "Developed a web portal to use these tools using Sinatra, Javascript/jQuery, and Slim",
         "Implemented Load Testing tool JMeter as well as custom load testing tools",
@@ -194,7 +194,7 @@
   "education": [{
     "institution": "DeVry University",
     "area": "Bachelor of Science in Computer Information System",
-    "studyType": "",
+    "studyType": "Undergraduate",
     "startDate": "2002-11-01",
     "endDate": "2006-07-01",
     "gpa": "3.45",
@@ -202,10 +202,16 @@
   }, {
     "institution": "Webster University",
     "area": "Masters of Business Administration",
-    "studyType": "",
-    "startDate": "2016-6-01",
-    "endDate": "",
+    "studyType": "Graduate",
+    "startDate": "2016-06-01",
+    "endDate": "2019-03-01",
     "gpa": "3.87",
     "courses": []
-  }]
+  }],
+  "awards": [],
+  "interests": [],
+  "languages": [],
+  "publications": [],
+  "references": [],
+  "volunteer": []
 }
