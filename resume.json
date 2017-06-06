@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "skills": [{
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python 2.x/3.x",
+        "Ruby",
+        "Node.js",
+        "Javascript",
+        "C#",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "",
+      "keywords": [
+        "pry",
+        "ipdb",
+        "ipython",
+        "Node REPL",
+        "git",
+        "Atom.io",
+        "vim",
+        "Visual Studio",
+        "Docker",
+        "RESTful"
+      ]
+    },
+    {
+      "name": "QA Tools",
+      "level": "",
+      "keywords": [
+        "Selenium",
+        "pytest",
+        "rspec",
+        "locust.io",
+        "cucumber",
+        "behave",
+        "Selenium Grid",
+        "MagicMock",
+        "jenkins"
+      ]
+    }
+  ],
+  "basics": {
+    "name": "Enrique Matta-Rodriguez",
+    "label": "Software Engineer in Test",
+    "picture": "",
+    "email": "enrique.j.matta@gmail.com",
+    "phone": "210-570-6667",
+    "degree": "Bachelor of Science in Computer Informtation Systems",
+    "website": "",
+    "summary": "Enrique Matta lays claim to San Antonio as his adopted city. He got his Bachelor of Science in Computer Information Systems from DeVry University in Federal Way, WA and is currently working on his MBA from Webster University. He's spent more than 8 years in Quality Assurance roles ranging from functional testing to leading automation engineers. He enjoys long Sunday drives to the Texas Hill Country, researching how he can be a better leader, and studying up on latest technologies to assist teams with their Quality Assurance needs. He's looking to join your team as a leader in maintaining quality software.",
+    "highlights": [],
+    "location": {
+      "address": "3563 Summer Mdw",
+      "postalCode": "TX 78222",
+      "city": "San Antonio",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [{
+        "network": "Twitter",
+        "username": "enriquem",
+        "url": "https://twitter.com/enriquem"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "enriquematta",
+        "url": "https://www.linkedin.com/in/enriquematta/"
+      }
+    ]
+  },
+  "work": [{
+      "company": "Carbon Black",
+      "position": "SDET",
+      "website": "https://www.carbonblack.com",
+      "startDate": "2017-01-15",
+      "endDate": "",
+      "summary": "Carbon Black is a leader in Endpoint Security, offering products that give applications access control for execution to Next Generation Anti Virus.",
+      "highlights": [
+        "Created Test Plans, Test Sets, and Test Cases for Next Generation Anti Virus product",
+        "Created a proof of concept for Selenium with Node.js and Cucumber.js",
+        "Migrated the proof of concept written in Node.js to Python and PyTest",
+        "Integrated a pseudo Selenium Grid on local development machines using Docker",
+        "Implemented parellel testing with pytest-xdist",
+        "Tied Browsermob Proxy to the Selenium test suite",
+        "Wrote API tests with Swagger Docs using the code generation tools",
+        "Set up a Jenkins instance for nightly selenium runs and tied results to flowdock",
+        "Mentored SDETs in Selenium development (focusing on CSS Selectors and XPath)",
+        "Wrote Selenium tests using Page Object Models for React.js (mostly xpath)"
+      ]
+    },
+    {
+      "company": "Rackspace",
+      "position": "Software Developer II and Software Development Engineer in Test",
+      "website": "https://www.rackspace.com",
+      "startDate": "2014-11-15",
+      "endDate": "2017-01-15",
+      "summary": "Rackspace provides dedicated and cloud hosting, providing fanatical support for all of it's services.",
+      "highlights": [
+        "Maintained a legacy Python/Javascript application that was written against a Postgres database",
+        "Created Unit Tests with Pytest and MagicMock",
+        "Developed and Architected RESTful API using Flask, SQL Alchemy ORM, and Python 3 for PCI compliance",
+        "Helped architect the porting of legacy Ruby 1.8.7 code to PCI compliant Python 3 code",
+        "Worked with different teams and organizations to debug and solve issues to ensure quality releases",
+        "Used static code analysis and linters to ensure committed code was of quality",
+        "Helped build and maintain an in-house Ruby Page Object Model framework, as well as extending with libraries",
+        "Wrote performance and load tests with Gatling (Scala)",
+        "Worked with the DevOps team to build a Jenkins instance that assisted with CI-CD goals",
+        "Wrote Ruby Cucumber Selenium tests and added them into a Rails application",
+        "Lead/Mentored SDETs and contractors in use of in-house tools and CI Server, as well as general coding skills",
+        "Used HAR files to help developers understand performance issues with the UI."
+      ]
+    },
+    {
+      "company": "Westpoint Underwriters",
+      "position": "QA Analyst and SDET and System Architect",
+      "website": "https://westpointuw.com",
+      "startDate": "2010-10-01",
+      "endDate": "2014-11-01",
+      "summary": "A Homeowner and Mobile Home Insurer BPO that provides software for Claims and Policy Generation.",
+      "highlights": [
+        "Created new software architecture decoupling Front End MVC and Back End Web API (REST)",
+        "Introduced Angular.js, Javascript standards, and Advanced JQuery to developers",
+        "Introduced Code Analysis rules into TFS system to help with code quality",
+        "Managed and ran sprints for a team of two Ruby Automation developers",
+        "Worked closely with management when systems failures came up",
+        "Taught developers how to utilize JQuery JSON with ASP.NET WebForms and MVC 4",
+        "Managed Hyper-V instances for our QA Automation tools",
+        "Moved a Manual Testing environment to a hybrid Manual/Automated testing environment",
+        "Developed a front end Automation tool utilizing Ruby, Cucumber, and WATIR",
+        "Worked with Watir-Webdriver and other webdriver/selenium 2.0 projects",
+        "Developed a web portal to use these tools using Sinatra, Javascript/jQuery, and Slim",
+        "Implemented Load Testing tool JMeter as well as custom load testing tools",
+        "Created an agnostic Database Comparison toolkit",
+        "Created tools to help parse/scrape HTML for data comparison",
+        "Created PDF Comparison tool that gave Visual differences and Percentage differences",
+        "Created XML comparison and Excel Comparison tools",
+        "Developed tools to validate data in PDFs using both Ruby and C#",
+        "Worked with SQL Server 2005/2008, VB.NET, C#, and Batch",
+        "Trained QA and Developers on using custom tools that were created",
+        "Developing tool to recreate live policies into QA servers for automated comparison of data",
+        "Used code sniffers and code coverage tools for Ruby code (Rubocop and Simplecov)",
+        "Created several public FOSS projects to assist in QA automation",
+        "Understand the Build and Deployment process for both the .NET framework and Ruby",
+        "Managed a recording tool written in C# for WATIR (obsolete)",
+        "Created a Database Driven Elements procedure with WATIR for QA Testing",
+        "Helped Architect many tools for QA Automation",
+        "Used Dimple.js and D3 to create charting for Load Testing results",
+        "Documented and recorded video for custom tools.",
+        "Created and Maintained QA Automation servers (Windows 2008/2012) with Ruby"
+      ]
+    },
+    {
+      "company": "Clickbooth",
+      "position": "Quality Assurance Engineer",
+      "website": "https://www.clickbooth.com",
+      "startDate": "2010-02-01",
+      "endDate": "2010-08-01",
+      "summary": "A Clicks Per Action marketing firm that also maintains an Ad network with an affiliate market.",
+      "highlights": [
+        "Created and taught PHPUnit Test Scripts and Plans for Zend Framework and Zend_Test",
+        "Created Quality Assurance plan for automated testing, software release",
+        "Assisted the Quality Assurance Team with testing",
+        "Helped QA team with familiarization of Selenium 1.x",
+        "Worked in a Business Analyst/Tech Lead capacity for Yourlist.com",
+        "Managed a remote team in Minnesota for Yourlist.com",
+        "Assisted in evaluating and purchasing software",
+        "Set up and Maintained a CI Server using CruiseControl and phpUnderControl",
+        "Implemented PHP Code Sniffer and ANT integration for CI Server",
+        "Assisted in the planning and creation of in-house CPM/CPA platform called CB Acuity 2.0"
+      ]
+    },
+    {
+      "company": "Zones",
+      "position": "Quality Assurance Analyst",
+      "website": "https://www.zones.com",
+      "startDate": "2009-03-01",
+      "endDate": "2009-10-01",
+      "summary": "A provider of computer hardware and services for enterprise partners.",
+      "highlights": [
+        "Tested Flex and web based applications with RIA Test",
+        "Created JUnit tests for development team",
+        "Created test cases and test plans for multiple applications (Regression Plans)",
+        "Worked in an Agile Development shop that included Scrum and TDD",
+        "Verified releases on a monthly bases for Java-Based systems (including a Flex-based UI Application, a Web Application written in JSPs, and back end processes)",
+        "Helped research different automation tools for Web Based application"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "DeVry University",
+    "area": "Bachelor of Science in Computer Information System",
+    "studyType": "",
+    "startDate": "2002-11-01",
+    "endDate": "2006-07-01",
+    "gpa": "3.45",
+    "courses": []
+  }, {
+    "institution": "Webster University",
+    "area": "Masters of Business Administration",
+    "studyType": "",
+    "startDate": "2016-6-01",
+    "endDate": "",
+    "gpa": "3.87",
+    "courses": []
+  }]
+}
