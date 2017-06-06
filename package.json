@@ -1,0 +1,23 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enroxorz/json-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enroxorz/json-resume/issues"
+  },
+  "homepage": "https://github.com/enroxorz/json-resume#readme",
+  "dependencies": {
+    "hackmyresume": "^1.8.0",
+    "resume-cli": "^0.4.19"
+  }
+}
