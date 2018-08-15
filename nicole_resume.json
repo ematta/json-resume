@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "skills": [{
+      "name": "Phlebotomy",
+      "level": "Entry",
+      "keywords": [
+        "Venipuncture",
+        "Order of Draw",
+        "HIPAA",
+        "Blood Cultures",
+        "Disposal of Biomedical Waste",
+        "Finger Stick Capillary",
+        "Heel Sticks",
+        "Maintain Medical Records",
+        "Glucose Testing",
+        "Manual Vitals"
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "level": "Intermediate",
+      "keywords": [
+        "Service",
+        "Communication",
+        "Phones",
+        "Record Keeping",
+        "Organization",
+        "Lead",
+        "Trainer",
+        "Scheduling",
+        "Teamwork"
+      ]
+    },
+    {
+      "name": "Medical",
+      "level": "Intermediate",
+      "keywords": [
+        "CPR Certified"
+      ]
+    }
+  ],
+  "basics": {
+    "name": "Nicole Matta",
+    "label": "Phlebotomist",
+    "email": "nicole.l.matta@gmail.com",
+    "phone": "727-776-0410",
+    "summary": "Having recently graduated from the Texas School of Phlebotomy, Nicole Matta is looking to start a new, and long, career as your next Phlebotomist. She is looking for an entry level position and a place where she can utilize her bountiful experience in customer service. Knowing how competitive the field is, she is prepared to work her hardest and prove herself as your next Phlebotomist.",
+    "highlights": ["customer service", "phlebotomy", "phlebotomist"],
+    "location": {
+      "address": "3563 Summer Mdw",
+      "postalCode": "TX 78222",
+      "city": "San Antonio",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nicolematta",
+        "url": "https://www.linkedin.com/in/nicolematta/"
+      }
+    ]
+  },
+  "work": [{
+      "company": "Sushi Zushi",
+      "position": "Certified Trainer/Server/Bartender",
+      "startDate": "2015-05-01",
+      "endDate": "",
+      "summary": "Soon after starting with the company, Nicole's hard work and determination was quickly realized and she received the Star Performance award, to which she received numerous times. She has cross trained in other departments, including the bar, and has worked her way up to achieve the Certified Trainer position.",
+      "highlights": [
+        "Communicate with customers to resolve complaints or ensure satisfaction.",
+        "Enforce rules or regulations.",
+        "Process customer bills or payments.",
+        "Clean food service areas.",
+        "Communicate dining or order details to kitchen personnel.",
+        "Trained all new staff."
+      ]
+    },
+    {
+      "company": "O'Keefs Family Tavern",
+      "position": "Server",
+      "startDate": "2012-02-01",
+      "endDate": "2014-05-01",
+      "summary": "Nicole became a key member of the O'Keefs team, cross training in multiple positions. She was able to showcase her leadership skills and was rewarded for her exemplary customer service.",
+      "highlights": [
+        "Communicate with customers to resolve complaints or ensure satisfaction.",
+        "Clean food service areas.",
+        "Check patrons' identification to ensure that they meet age requirements for alcoholic.",
+        "Enforce rules or regulations.",
+        "Communicate dining or order details to kitchen personnel."
+      ]
+    },
+    {
+      "company": "Boardwalk Bar and Grill",
+      "position": "Restaurant Manager",
+      "startDate": "2011-09-01",
+      "endDate": "2012-02-01",
+      "summary": "Beginning as an hourly employee, Nicole quickly rose to a management role, working hand in hand with the owner and leading all the employees.",
+      "highlights": [
+        "Monitor activities of individuals to ensure safety or compliance with rules.",
+        "Resolve customer complaints or problems.",
+        "Manage inventories of products or organizational resources.",
+        "Maintain regulatory or compliance documentation.",
+        "Monitor organizational procedures to ensure proper functioning."
+      ]
+    },
+    {
+      "company": "Eldorado Development Corp",
+      "position": "Personal Assistant",
+      "startDate": "2008-12-01",
+      "endDate": "2012-02-01",
+      "summary": "Working as a personal assistant to the owner, Nicole was in charge of compiling data and documents, ordering supplies and keeping inventory, created estimates for customers, and ensuring a clean and safe work environment in construction.",
+      "highlights": [
+        "Compile data or documentation.",
+        "Enter information into databases or software programs.",
+        "Deliver items.",
+        "Clean work areas or facilities.",
+        "Perform administrative or clerical tasks."
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Texas School of Phlebotomy",
+    "area": "Phlebotomy",
+    "studyType": "Certificate",
+    "startDate": "2018-06-25",
+    "endDate": "2018-08-06",
+    "gpa": "98.3",
+    "courses": []
+  }],
+  "awards": [
+    {
+      "title": "BLS CPR",
+      "date": "2018-07-13",
+      "awarder": "American Heart Association",
+      "summary": ""
+    }
+  ],
+  "interests": [],
+  "languages": [],
+  "publications": [],
+  "references": [
+    {
+      "name": "Douglas Brown",
+      "reference": "This letter is regarding an employee that has worked for me for the past few years. Nicole ‘Nikki’ Matta started working for me at Sushi Zushi- Downtown in May 2015 and is still employed with us. Nikki was hired as a Server where she excelled. She spent time studying and learning our extensive menu and had a passion for delivering a great guest experience. Within three months she was promoted to a training position and also started cross training to other positions in the restaurant. Nikki is viewed as a leader in our restaurant, is highly reliable and very passionate about the quality of work she produces. I feel that with her ability to connect and friendly attitude she could easily connect with patients as a phlebotomist and would be an asset to your organization. If you would like additional information about Nikki Matta you can call me at 682-365-6561 or email at ​db1973@gmail.com​ and I will be happy to answer any questions you might have."
+    },
+    {
+      "name": "Justin Goode",
+      "reference": "It is with great pleasure that I recommend Nicole Matta for a position at your company. Nicole has been a valuable team member at Sushi Zushi Downtown for over the last 2 and a half years and is without a doubt, one of our most effective and capable employees. She is a tremendously hard worker, has an equally cheerful and positive attitude and she gets along great with her coworkers. Nicole handled, not only her required duties as a server, but she also greeted and seated guests, assisted in table set up, answer phones and take to go and delivery orders. Nicole exceeded so well as a sever, that after two months, my management team and I decided she would be more effective to our restaurant if we promoted her to a bartender position where she performed similar tasks but with a higher volume of guests and a fast-paced environment. Nicole excelled at anything we asked her to do. Nicole is an active listener with excellent communication skills and our guests were always delighted to have her take care of them. She is honest, dependable, a great teammate and an incredibly hard worker. With her skillset and desire to learn and constantly improve, I highly recommend Nicole joining your company and/or team. Please feel free to contact me by phone (210)262-9202 or by email jgoode@sushizushi.com should you like to discuss Nicole’s qualifications and experience further. I would be happy to elaborate."
+    }
+  ],
+  "volunteer": []
+}

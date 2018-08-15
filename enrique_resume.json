@@ -25,7 +25,8 @@
         "vim",
         "Visual Studio",
         "Docker",
-        "RESTful"
+        "RESTful",
+        "Intellij IDEA"
       ]
     },
     {
@@ -40,7 +41,8 @@
         "behave",
         "Selenium Grid",
         "MagicMock",
-        "jenkins"
+        "jenkins",
+        "webdriver.io"
       ]
     }
   ],
