@@ -17,7 +17,13 @@
   },
   "homepage": "https://github.com/enroxorz/json-resume#readme",
   "dependencies": {
+    "gulp-cli": "^2.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-resume": "^0.3.0",
     "hackmyresume": "^1.8.0",
     "resume-cli": "^0.4.19"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
